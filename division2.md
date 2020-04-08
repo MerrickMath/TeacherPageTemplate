@@ -1,7 +1,7 @@
 ---
 layout: coursepage
 title: Divison 2 Mathematics 
-description: Questions, links, materials, and more for (teachers) class
+description: Questions, links, materials, and more for Master Aaron's class
 show_downloads: FALSE
 
 ---
