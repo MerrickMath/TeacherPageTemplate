@@ -1,5 +1,5 @@
 ## Classes 
-* (Grade 1)[grade1.md]
+* [grade1.md](Grade 1)
 
 
 
