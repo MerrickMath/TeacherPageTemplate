@@ -1,5 +1,5 @@
 ## Classes 
-* [division2.md](Division 2 Mathematics)
+* [Division 2 Mathematics](division2.md)
 
 
 
