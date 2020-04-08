@@ -6,8 +6,6 @@ show_downloads: FALSE
 
 ---
 
-## Division 2
-Let me know where you are at: 
-
-Questions: 
+### Check In
+* <a href="google.ca"> Let me know where you are at</a>: Complete this form once-twice a week so I know where you are at in your book, and if you have any questions.
 
